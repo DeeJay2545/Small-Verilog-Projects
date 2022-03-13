@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:35 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Thu Sep 17 20:40:04 2020
+# Process ID: 12114
+# Current directory: /home/djmorvay/Desktop/Lab3_Sequence2/Lab3_Sequence2.runs/synth_1
+# Command line: vivado -log counter.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source counter.tcl
+# Log file: /home/djmorvay/Desktop/Lab3_Sequence2/Lab3_Sequence2.runs/synth_1/counter.vds
+# Journal file: /home/djmorvay/Desktop/Lab3_Sequence2/Lab3_Sequence2.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source counter.tcl -notrace
