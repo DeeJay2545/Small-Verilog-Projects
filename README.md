@@ -1,4 +1,4 @@
-# Small-Verilog-Projects
+# Small Verilog Projects
 Collection of Small Verilog Projects
 
 Lab #1 - Basic Verilog counter.
